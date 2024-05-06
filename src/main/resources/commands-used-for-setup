@@ -1,0 +1,149 @@
+➜  venkatauday history
+    1  5/4/2024 13:15  which $SHELL
+    2  5/4/2024 13:15  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    3  5/4/2024 13:15  pwd
+    4  5/4/2024 13:15  ls -a
+    5  5/4/2024 13:15  ls
+    6  5/4/2024 13:15  clear
+    7  5/4/2024 13:15  ls
+    8  5/4/2024 13:15  dir
+    9  5/4/2024 13:15  clear
+   10  5/4/2024 13:15  echo "install home brew" > developer.txt
+   11  5/4/2024 13:15  clear
+   12  5/4/2024 13:15  ls
+   13  5/4/2024 13:15  echo "view the files ls -a for hidden files" > developer.txt
+   14  5/4/2024 13:15  clear
+   15  5/4/2024 13:15  ls -ltr
+   16  5/4/2024 13:15  clear
+   17  5/4/2024 13:15  ls
+   18  5/4/2024 13:15  clear
+   19  5/4/2024 13:15  ls -a
+   20  5/4/2024 13:15  ls
+   21  5/4/2024 13:15  java --version
+   22  5/4/2024 13:15  brew install iterm2
+   23  5/4/2024 13:15  brew install iterm2
+   24  5/4/2024 13:15  brew install --cask iterm2
+   25  5/4/2024 13:15  brew install --cask iterm2
+   26  5/4/2024 13:15  pwd
+   27  5/4/2024 13:15  echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
+   28  5/4/2024 13:15  source ~/.zshrc
+   29  5/4/2024 13:15  brew
+   30  5/4/2024 13:15  clear
+   31  5/4/2024 13:15  hsitory
+   32  5/4/2024 13:15  history
+   33  5/4/2024 13:15  echo "export PATH=/opt/homebrew/bin:$PATH" > developer.txt
+   34  5/4/2024 13:15  clear
+   35  5/4/2024 13:15  pwd
+   36  5/4/2024 13:15  ls
+   37  5/4/2024 13:15  nano developer.txt
+   38  5/4/2024 13:15  pwd
+   39  5/4/2024 13:15  ls
+   40  5/4/2024 13:15  ls -a
+   41  5/4/2024 13:15  ls -a
+   42  5/4/2024 13:15  pwd
+   43  5/4/2024 13:15  history
+   44  5/4/2024 13:15  ls -a
+   45  5/4/2024 13:15  clear
+   46  5/4/2024 13:15  nano .zshrc
+   47  5/4/2024 13:15  clear
+   48  5/4/2024 13:15  ls -a
+   49  5/4/2024 13:15  clear
+   50  5/4/2024 13:15  brew
+   51  5/4/2024 13:15  brew --version
+   52  5/4/2024 13:15  clear
+   53  5/4/2024 13:15  history
+   54  5/4/2024 13:15  clear
+   55  5/4/2024 13:15  clear
+   56  5/4/2024 13:15  brew install --cask iterm2
+   57  5/4/2024 13:15  brew install zsh
+   58  5/4/2024 13:15  clear
+   59  5/4/2024 13:15  ls -a
+   60  5/4/2024 13:15  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   61  5/4/2024 13:14  pwd
+   62  5/4/2024 13:15  ls -a
+   63  5/4/2024 13:15  open .oh-my-zsh
+   64  5/4/2024 13:15  /Users/venkatauday/.oh-my-zsh/oh-my-zsh.sh; exit
+   65  5/4/2024 13:16  nano .oh-my-zsh
+   66  5/4/2024 13:19  ls
+   67  5/4/2024 13:19  ls -a
+   68  5/4/2024 13:19  nano .zshrc
+   69  5/4/2024 13:21  source .zshrc
+   70  5/4/2024 13:21  c
+   71  5/4/2024 13:21  clear
+   72  5/4/2024 13:21  c
+   73  5/4/2024 13:21  ls
+   74  5/4/2024 13:21  ls -a
+   75  5/4/2024 13:21  ls -ltr
+   76  5/4/2024 13:21  c
+   77  5/4/2024 13:22  pwd
+   78  5/4/2024 13:22  mkdir workspace
+   79  5/4/2024 13:22  ls
+   80  5/4/2024 13:22  cd workspace
+   81  5/4/2024 13:22  clear
+   82  5/4/2024 13:22  c
+   83  5/4/2024 13:23  clar
+   84  5/4/2024 13:23  clear
+   85  5/4/2024 13:23  nano ~/.zshrc
+   86  5/4/2024 13:24  data
+   87  5/4/2024 13:24  date
+   88  5/4/2024 13:25  nano ~/.zshrc
+   89  5/4/2024 13:25  clear
+   90  5/4/2024 13:25  brew list
+   91  5/4/2024 13:25  cd ..
+   92  5/4/2024 13:25  brew
+   93  5/4/2024 13:26  nano ~/.zshrc
+   94  5/4/2024 13:27  source ~/.zshrc
+   95  5/4/2024 13:27  nano ~/.zshrc
+   96  5/4/2024 13:27  source ~/.zshrc
+   97  5/4/2024 13:27  clear
+   98  5/4/2024 13:27  brew
+   99  5/4/2024 13:27  cd workspace
+  100  5/4/2024 13:27  brew
+  101  5/4/2024 13:28  cd workspace
+  102  5/4/2024 13:28  brew
+  103  5/4/2024 13:29  nano ~/.zshrc
+  104  5/4/2024 13:30  cd ..
+  105  5/4/2024 13:30  c
+  106  5/4/2024 13:30  w
+  107  5/4/2024 13:30  pwd
+  108  5/4/2024 13:31  clear
+  109  5/4/2024 13:31  cd workspace
+  110  5/4/2024 13:31  ls
+  111  5/4/2024 13:31  cd ..
+  112  5/4/2024 13:32  brew install visual-source-code
+  113  5/4/2024 13:32  brew install --cask visual-studio-code
+  114  5/4/2024 13:32  clear
+  115  5/4/2024 13:32  brew list
+  116  5/4/2024 13:51  clear
+  117  5/4/2024 13:51  brew install --cask adoptopenjdk
+  118  5/4/2024 13:54  brew install --cask temurin
+  119  5/4/2024 13:54  clear
+  120  5/4/2024 13:54  c
+  121  5/4/2024 13:54  brew list
+  122  5/4/2024 13:54  java --version
+  123  5/4/2024 13:55  c
+  124  5/4/2024 13:55  clear
+  125  5/4/2024 13:55  c
+  126  5/4/2024 14:02  ls
+  127  5/4/2024 14:02  brew install git
+  128  5/4/2024 14:02  clear
+  129  5/4/2024 14:03  brew list
+  130  5/4/2024 14:03  git --version
+  131  5/4/2024 14:28  git --global user='uday'
+  132  5/4/2024 14:29  git config --global user='uday'
+  133  5/4/2024 14:29  git -c --global user='uday'
+  134  5/4/2024 14:31  git config --global user.name "uday"
+  135  5/4/2024 14:31  git config --global user.email "devarakonda.uday@gmail.com"
+  136  5/4/2024 14:55  brew list
+  137  5/4/2024 15:03  brew install --cask keycastr
+  138  5/4/2024 15:15  are you getting facetime audio calcller?
+  139  5/4/2024 15:15  clear
+  140  5/4/2024 15:15  brew uninstall keycastr
+  141  5/4/2024 15:15  c
+  142  5/4/2024 15:16  brew ls
+  143  5/4/2024 15:16  clar
+  144  5/4/2024 15:16  clear
+  145  5/4/2024 15:17  brew install keycastr
+  146  5/4/2024 15:27  brew uninstall keycastr
+  147  5/4/2024 15:27  brew install stats
+  148  5/4/2024 15:28  clear

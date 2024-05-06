@@ -2,41 +2,41 @@ Installation steps for developer desktop on m3 setup
 
 
 // Install package manger  
-
 brew install  on command terminal
-
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 //brew — not found (issue in m2/3 chips) or update in .zshrc file
-
 > echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
 
+//Source the .zshrc to apply to the terminal 
+source ~/.zshrc
+
+//install visual-source-code
+brew install —cask visual-studio-code
+
 //open text files use nano editor or vim editor 
- Nano ~/.zshrc 
+nano ~/.zshrc 
 
 //install zsh 
-
-Brew install zsh 
+brew install zsh 
 
 // install iterm2 [ powerful terminal]
-
-Brew install —cask iterm2
+brew install —cask iterm2
 
 nano ~/.zshrc
 //Add this line --> export PATH=/opt/homebrew/bin:$PATH
 
-
-//install java [eclipse openidk 22 as of 2024 may]
-
-Brew install —cask temurin
-
 //test java version 
-
 Java —version
 
-//install git 
+//install java [eclipse openidk 22 as of 2024 may]
+brew install —cask temurin
 
-Brew install git 
+//test java version 
+java —version
+
+//install git 
+brew install git 
 
 //validate versions and installation of git and item2
 
@@ -46,20 +46,17 @@ Git config —global user.name=‘test’
 Git config —global user.eamil=‘test@email.com’
 
 //install maven to use project specific folders and local repo to be clean to refer
-
-Brew install maven 
+brew install maven 
 
 //update .m2 home to .zshrc 
 
 //create settings.xml under m2 and update your local repo —refer sample in online.
 
 //install commands short cut 
-
-Brew install —cask keycastr
+brew install —cask keycastr
 
 //See that’s easy to delete any software if you want to uninstall with package manger like brew 
-
-Brew uninstall keycastr
+brew uninstall keycastr
 
 This is your GitHub account - any folder under will be public or private repos- so sample folder is public project 
 
